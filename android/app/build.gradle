@@ -24,7 +24,7 @@ if (flutterVersionName == null) {
 
 android {
     namespace "com.example.flutter_wechat_post"
-    compileSdk 34//flutter.compileSdkVersion
+    compileSdk 33//flutter.compileSdkVersion
     ndkVersion flutter.ndkVersion
 
     compileOptions {
